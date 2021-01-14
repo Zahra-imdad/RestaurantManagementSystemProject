@@ -1,0 +1,5 @@
+Id,ProductName,Category,Price
+	1	Beef Burger	Burger	500
+	2	Chicken Burger	Burger	300
+	3	Coca Cola	Drinks	50
+	4	Pizza Fries	Fires	150

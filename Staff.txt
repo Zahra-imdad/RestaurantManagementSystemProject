@@ -1,0 +1,6 @@
+Id,First Name,Last Name,Address,Phone,Email,City,Country,Salary  								
+ 1	Ali	Saif	liyari	09823735	ali@gmail.com	Karachi	Pakistan	25,000
+ 2	zahra	imdad	abc	08836784	zahra@gmail.com	Karachi	Pakistan	3000.0
+ 3	Imdad	Ali	xyz	034178973	imd@gmail.com	Karachi	Pakistan	5000.0
+ 4	ainy	imdad	xyz	0341856783	ain@gmail.com	Karachi	Pakistan	10000.0
+ 5	Ahmed	Mirza	Abc	090078694	ahmed@gmail.com	Karachi	Pakistan	20000.0

@@ -1,0 +1,6 @@
+Id,First Name,Last Name,Address,Phone,Email,City,Country,Date of Order,Tax,SubTotal,Total 
+ 1	Zahra	Imdad	Abc street	090078601	zahra@gmail.com	Karachi	Pakistan	Tue Jan 12 15:44:41 PKT 2021	100	400	500
+ 2	Imdad	Ali	clifton street	090067591	imdad@gmail.com	Karachi	Pakistan	Sun Jan 03 00:00:00 PKT 2021	200	600	800
+ 3	Farida	Ali	xyz street	034183459	far@gmail.com	Karachi	Karahi	Tue Jan 05 00:00:00 PKT 2021	500.0	2000.0	2500.0
+ 4	Ainy	Ali	Defence	098765471	ain@gmail.com	Karachi	Pakistan	Wed Jan 13 00:00:00 PKT 2021	600.0	3000.0	3600.0
+ 5	Sana	Khan	Liyari	090065392	sana@gmail.com	Karachi	Pakistan	Tue Jan 12 18:56:13 PKT 2021	200.0	600.0	800.0

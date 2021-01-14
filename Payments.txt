@@ -1,0 +1,5 @@
+id,Name,Timings,Salary,Paid Amount
+	1	Ali	9am-6pm	25000.00	0
+	2	Zahra	9am-12pm 	3000.00	0
+	3	Imdad	9am-2pm	5000.00	0
+
